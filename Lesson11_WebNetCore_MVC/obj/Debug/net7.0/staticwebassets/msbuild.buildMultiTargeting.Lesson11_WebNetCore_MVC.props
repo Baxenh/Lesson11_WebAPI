@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Lesson11_WebNetCore_MVC.props" />
+</Project>
